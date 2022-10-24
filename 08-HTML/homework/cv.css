@@ -1,0 +1,75 @@
+body {
+  background-image: url(https://c8.alamy.com/compfr/md2n7e/html-css-mot-avec-flou-business-background-md2n7e.jpg);
+}
+
+.header {
+  background-image: url("./assets/paper.jpg");
+  padding: 5px;
+  text-align: center;
+  color: burlywood;
+}
+
+.nav {
+background-color: burlywood;
+display: flex;
+justify-content: space-around;
+padding: 10px;
+}
+
+.main {
+  background-image: url("./assets/paper.jpg");
+  padding: 50px;
+}
+
+.imgDiv {
+  display: flex;
+  margin: 80px;
+  background-color: rgb(209, 174, 129);
+  padding: 50px;
+}
+
+.img {
+height: 250px;
+margin: 30px;
+border-radius: 50%;
+
+}
+
+.p {
+  margin: 80px;
+  font-size:larger;
+}
+
+.education {
+  background-color: rgb(209, 174, 129);
+  padding: 50px;
+  margin: 80px;
+  font-size: larger;
+ 
+}
+
+.skillsHobies {
+  background-color: rgb(209, 174, 129);
+  padding: 50px;
+  margin: 80px;
+  font-size: larger;
+}
+
+.span {
+  background-color: rgb(209, 174, 129);
+  padding: 50px;
+  margin: 80px;
+  font-size: larger;
+}
+
+.footer {
+ background-color:rgb(3, 5, 19);
+ color: aliceblue;
+ padding: 20px;
+ font-size: medium;
+ display: flex;
+ /* flex-direction: column; */
+ justify-content: space-around;
+ text-align:justify;
+ margin: 10px;
+}

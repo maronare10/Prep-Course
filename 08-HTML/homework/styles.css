@@ -1,0 +1,35 @@
+body {
+  background-image: url(https://www.todofondos.net/wp-content/uploads/paquete-de-fondos-de-pantalla-de-iphone-de-colores-vivos.-wallpaper-para-celular-de-colores-473x1024.jpg);
+
+  }
+
+.divClass{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  
+}
+
+.divClass h1 {
+  color:rgb(46, 39, 144);
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: rgba(136, 63, 116, 0.5);
+  padding: 50px;
+  border: 5px solid rgb(12, 6, 135);
+  margin: 0 auto;
+  }
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
